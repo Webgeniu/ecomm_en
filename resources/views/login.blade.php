@@ -6,7 +6,7 @@
             <form action="/login" method="POST">
                 <div class="form-group">
                         @csrf
-                    <label for="exampleInputEmail">Email address</label>
+                    <label for="exampleInputEmail">Email Address</label>
                     <input type="email" name="email" class="form-control" id="exampleInputEmail" placeholder="Email">
                 </div>
                 <div class="form-group">
