@@ -49,5 +49,16 @@
         .trending-wrapper{
             margin:50px;
         }
+        .detail-img{
+            height:200px;
+        }
+        .cart-list-devider{
+            border-bottom:1px solid black;
+            margin-bottom:20px;
+            padding-bottom:20px;
+        }
+        .navbar-right li{
+            padding-left:20px;
+        }
     </style>
 </html>
